@@ -15,7 +15,8 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
-    font-size: 16px;
+    /* font-size: 16px; */
+    font-size: 1rem;
     font-weight: 400;
 }
 
@@ -38,7 +39,7 @@ body{
 }
 
 .container__titulo{
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: 700;
 }
 
@@ -53,7 +54,7 @@ body{
     color: var(--branco-principal);
     border: 2px solid var(--botao-azul);
     /* width: 512px; */
-    font-size: 16px;
+    font-size: 1rem;
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
@@ -70,7 +71,7 @@ body{
 }
 
 .container__aviso{
-    font-size: 12px;
+    font-size: 0.75rem;
     color: var(--cinza-secundario);
 }
 
@@ -84,7 +85,7 @@ body{
 }
 
 .descricao__titulo{
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 700;
     margin-bottom: 0.167em;
 }
@@ -110,7 +111,7 @@ body{
 }
 
 .dispositivos__titulo{
-    font-size: 48px;
+    font-size: 3rem;
 }
 
 .dispositivos__lista{
@@ -122,9 +123,8 @@ body{
 }
 
 .legendas{
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 700;
-    font-size: 32px;
     color: var(--branco-principal);
 }
 
@@ -133,7 +133,7 @@ body{
     text-align: center;
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     text-decoration: none;
 }
